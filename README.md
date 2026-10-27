@@ -11,9 +11,9 @@ Por eso creé una pequeña página de presentación personal y profesional.
 
 ### Un poco sobre mí
 
-[![Mi presentación profesional](./assets/presentacion.png)](https://TU-PAGINA.vercel.app)
+[![Mi presentación profesional](./assets/presentacion.png)](https://eugeniagiuliodori.vercel.app/)
 
-**[🌿 Conocé mi presentación profesional](https://TU-PAGINA.vercel.app)**
+**[🌿 Conocé mi presentación profesional](https://eugeniagiuliodori.vercel.app/)**
 
 Desde allí también podés acceder a mi portfolio técnico, donde comparto proyectos y experiencias de desarrollo.
 
